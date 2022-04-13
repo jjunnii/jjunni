@@ -10,7 +10,7 @@
 * Stitching
 * Steganography
 
-# Publications
+# What is my publications?
 * 2021.08.09 / Electronics
     * Deep Multi-Image Steganography with Private Keys.
 * 2022.01.31 / Journal of the Korea Broadcasting Engineering Association
