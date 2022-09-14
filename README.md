@@ -9,7 +9,7 @@
 * My personal page URL : <https://jjunnii.github.io/>
 
 # What is my interest?
-**Surveillance system
+## Surveillance system
 * Stitching
 * Steganography
 * Person re-identification
