@@ -6,12 +6,13 @@
 **(2021.03 ~)**
 * Email : <cjswpwjrdls@gmail.com>.
 * My blog URL : <https://velog.io/@with_jjun>
+* My personal page URL : <https://jjunnii.github.io/>
 
 # What is my interest?
-* Domain adaptation
+**Surveillance system
 * Stitching
 * Steganography
-
+* Person re-identification
 # What is my publications?
 * 2021.08.09 / Electronics
     * Deep Multi-Image Steganography with Private Keys.
