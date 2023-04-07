@@ -18,5 +18,5 @@
     * Deep Multi-Image Steganography with Private Keys.
 * 2022.01.31 / Journal of the Korea Broadcasting Engineering Association
     * Panorama Image Stitching Using Sythetic Fisheye Image
-* 2023.03.28 / IEEE Signal Processing Letters.
+* 2023.03.28 / IEEE Signal Processing Letters
     * Cloth-Changing Person Re-Identification With Noisy Patch Filtering
