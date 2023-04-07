@@ -20,3 +20,6 @@
     * Panorama Image Stitching Using Sythetic Fisheye Image
 * 2023.03.28 / IEEE Signal Processing Letters
     * Cloth-Changing Person Re-Identification With Noisy Patch Filtering
+# Career
+* 2023.02.06 / Testworks
+   * AI engineer
