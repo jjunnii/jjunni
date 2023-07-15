@@ -13,6 +13,9 @@
 * Stitching
 * Steganography
 * Person re-identification
+### Sensor Fusion
+* Time Synchronization
+* Sensor Calibration
 # What is my publications?
 * 2021.08.09 / Electronics
     * Deep Multi-Image Steganography with Private Keys.
